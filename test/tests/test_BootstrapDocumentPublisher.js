@@ -114,6 +114,7 @@ module.exports = {
             '</div>',
           '</div>',
         '</div>',
+        '<script src="http://code.jquery.com/jquery.min.js" type="text/javascript"></script>',
         '<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js" type="text/javascript"></script>',
         '<script src="https://google-code-prettify.googlecode.com/svn/loader/prettify.js" type="text/javascript"></script>',
         '<script type="text/javascript">prettyPrint();</script>',
